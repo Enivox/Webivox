@@ -5,6 +5,7 @@ Ce programme permet de transformer un site web en une application de bureau (.ex
 ⚙️ Prérequis (à installer une seule fois)
 Pour que ce programme fonctionne correctement, vous devez installer Node.js et Nativefier sur votre ordinateur.
 
+
 1. Installer Node.js :
 Télécharger ici : https://nodejs.org
 
@@ -12,14 +13,17 @@ Choisir la version LTS (Recommandée)
 
 Lancer le fichier téléchargé et installer avec les options par défaut
 
+
 2. Installer Nativefier :
 Ouvrir un terminal en tant qu’administrateur (CMD ou PowerShell)
 
 Exécuter la commande suivante :
 
-npm install -g nativefier
+"npm install -g nativefier"
 
 Une fois l’installation terminée, le programme fonctionnera correctement.
+
+
 
 ✅ Fonctionnalités de l'application
 Interface graphique simple avec champs personnalisables
