@@ -5,7 +5,7 @@ Ce programme permet de transformer un site web en une application de bureau (.ex
 ⚙️ Prérequis (à installer une seule fois)
 Pour que ce programme fonctionne correctement, vous devez installer Node.js et Nativefier sur votre ordinateur.
 
-␣␣
+<br>
 1. Installer Node.js :
 Télécharger ici : https://nodejs.org
 
@@ -13,7 +13,7 @@ Choisir la version LTS (Recommandée)
 
 Lancer le fichier téléchargé et installer avec les options par défaut
 
-
+<br>
 2. Installer Nativefier :
 Ouvrir un terminal en tant qu’administrateur (CMD ou PowerShell)
 
@@ -24,7 +24,7 @@ Exécuter la commande suivante :
 Une fois l’installation terminée, le programme fonctionnera correctement.
 
 
-
+<br>
 ✅ Fonctionnalités de l'application
 Interface graphique simple avec champs personnalisables
 
@@ -34,6 +34,7 @@ Génère automatiquement un raccourci sur le bureau
 
 Aucune connaissance technique nécessaire
 
+<br>
 📦 Pour générer une nouvelle application
 Lancer l'application
 
@@ -43,8 +44,12 @@ Donner un nom à votre application
 
 Cliquez sur "Créer l'application"
 
-Un raccourci s'affichera automatiquement sur votre bureau si tout se passe bien
+Ensuite, allez dans le dossier **Webivox**, puis trouvez le dossier portant le nom que vous avez donné à votre application. 
 
+Enfin, cliquez sur le fichier **.exe** pour lancer votre application.
+
+
+<br>
 ❗ Problèmes fréquents
 Erreur nativefier non reconnu : vérifiez que Node.js et Nativefier sont bien installés.
 
