@@ -19,7 +19,7 @@ Ouvrir un terminal en tant qu’administrateur (CMD ou PowerShell)
 
 Exécuter la commande suivante :
 
-"npm install -g nativefier"
+```npm install -g nativefier```
 
 Une fois l’installation terminée, le programme fonctionnera correctement.
 
